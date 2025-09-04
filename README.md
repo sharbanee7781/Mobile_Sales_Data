@@ -52,3 +52,6 @@ Explore the dashboard using slicers and filters.
 This dashboard provides a comprehensive view of Motorola’s sales performance, helping stakeholders track KPIs, analyze product and regional performance, and understand customer behavior. It can be extended further by integrating real-time sales data or predictive analytics models.
 
 This dashboard provides a comprehensive view of Motorola’s sales performance, helping stakeholders track KPIs, analyze product and regional performance, and understand customer behavior. It can be extended further by integrating real-time sales data or predictive analytics models.
+
+<img width="1167" height="653" alt="Mobile Sales Dashboard Snip" src="https://github.com/user-attachments/assets/8e98320c-838f-4c0b-adbc-83424ff0b597" />
+
